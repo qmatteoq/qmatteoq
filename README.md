@@ -46,6 +46,8 @@ A collection of samples on different ways and techniques to package Windows apps
 - **Language**: Italian
 - **Link**: [YouTube](https://www.youtube.com/watch?v=v1CuEzr6W0s)
 
+<br />
+
 - **Title**: Dietro le quinte di Microsoft 365 Copilot: una overview tecnica
 - **Description**: A technical overview of how Copilot for Microsoft 365 works behind the scenes
 - **Language**: Italian
