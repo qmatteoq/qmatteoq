@@ -46,6 +46,11 @@ A collection of samples on different ways and techniques to package Windows apps
 - **Language**: Italian
 - **Link**: [YouTube](https://www.youtube.com/watch?v=v1CuEzr6W0s)
 
+- **Title**: Dietro le quinte di Microsoft 365 Copilot: una overview tecnica
+- **Description**: A technical overview of how Copilot for Microsoft 365 works behind the scenes
+- **Language**: Italian
+- **Link**: [YouTube](https://www.youtube.com/watch?v=rX2tB8w9TZU)
+
 ### Global Azure Milano 2024
 - **Title**: Usare i servizi di Azure per estendere Microsoft 365 Copilot
 - **Description**: How to extend Copilot for Microsoft 365 with plugins and connectors using Azure services
