@@ -22,6 +22,9 @@ I'm a Cloud Solution Architect in the Modern Work - AI, Apps & Ecosystem team in
 ### [Semantic Kernel demos](https://github.com/qmatteoq/SemanticKernel-Demos)
 A series of samples for Semantic Kernel, a Microsoft library to orchestrate AI workflows and build AI agents in your applications
 
+### [Graph Connector + .NET Aspire](https://github.com/qmatteoq/GraphConnectorAspire)
+A sample project that demonstrates how to build a custom Graph Connector using .NET Aspire and a microservices approach. The sample implementation enables to ingest into a Microsoft 365 tenant the content indexed by an RSS feed. Thanks to a simple UI application created with Blazor, you can provide all the important information and then let the application do the rest.
+
 ### [Viva Learning app](https://github.com/qmatteoq/VivaLearningApp)
 A sample Blazor application that uses the Microsoft Graph to integrate custom learning content into Viva Learning
 
