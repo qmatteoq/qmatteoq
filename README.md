@@ -19,6 +19,21 @@ I'm a Cloud Solution Architect in the Modern Work - AI, Apps & Ecosystem team in
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qmatteoq&show_icons=true&theme=radical)
 
 ## 📂 Repositories
+### [WPC2025-MultiAgent](https://github.com/qmatteoq/WPC2025-MultiAgent)
+A comprehensive demo showcasing multi-agent systems for the WPC 2025 Conference in Milan. Features Agent-to-Agent (A2A) framework integration, Microsoft 365 Agents SDK, declarative agents, and multi-agent workflows with Azure OpenAI integration.
+
+### [WPC2025-CopilotAgent](https://github.com/qmatteoq/WPC2025-CopilotAgent)
+Demo projects for the WPC 2025 Conference in Milan about building agents for the Microsoft 365 ecosystem with pro-code technologies. Includes EchoAgent (TypeScript) and Travel Agent (C#/.NET) with Azure OpenAI, Microsoft 365 Retrieval API, and custom plugins.
+
+### [NetConf2025](https://github.com/qmatteoq/NetConf2025)
+Official demo repository for .NET Conf 2025 held in Milan, showcasing .NET 10 features, Microsoft 365 Agents, Azure AI Search, Blazor, and microservices architecture with .NET Aspire. Includes M365Agent and TeamsAgent solutions.
+
+### [Codemotion2025](https://github.com/qmatteoq/Codemotion2025)
+Demo projects for Codemotion 2025 featuring Microsoft 365 Agents built with TypeScript and the Microsoft 365 Agents SDK, showcasing custom engine agents with Azure OpenAI integration.
+
+### [TicketApi](https://github.com/qmatteoq/TicketApi)
+A simple Ticket API that can be used to simulate a ticketing system. Helpful if you need an API for testing scenarios. Built as an Azure Function with .NET 8, includes Swagger documentation and deployment scripts.
+
 ### [Semantic Kernel demos](https://github.com/qmatteoq/SemanticKernel-Demos)
 A series of samples for Semantic Kernel, a Microsoft library to orchestrate AI workflows and build AI agents in your applications
 
