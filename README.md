@@ -68,8 +68,9 @@ Still around and still useful if that's your world: [**DesktopBridge**](https://
 
 ## 📈 GitHub Stats
 
-![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmatteoq&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qmatteoq&layout=compact&theme=radical&langs_count=8)
+![Matteo's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qmatteoq&theme=radical)
+![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qmatteoq&theme=radical)
+![Top languages by commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qmatteoq&theme=radical)
 
 ## 📫 Get in Touch
 
